@@ -2,7 +2,9 @@
  *  @author YOUR NAME HERE
  */
 public class Colglatz {
-
+    public static void seq(int n){
+        
+    }
     /** Buggy implementation of nextNumber! */
     public static int nextNumber(int n) {
         if (n  == 128) {
