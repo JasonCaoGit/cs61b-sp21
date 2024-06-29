@@ -3,7 +3,7 @@
  */
 public class Colglatz {
     public static void seq(int n){
-        
+
     }
     /** Buggy implementation of nextNumber! */
     public static int nextNumber(int n) {
@@ -12,7 +12,7 @@ public class Colglatz {
         } else if (n == 5) {
             return 3 * n + 1;
         } else {
-            return n * 2342424;
+            return n * 23424242323;
         }
     }
 
